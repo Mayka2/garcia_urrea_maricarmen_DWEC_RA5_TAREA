@@ -52,8 +52,6 @@ numeros.forEach(num => {
     btn.style.height = "50px";
     btn.style.margin = "7px";
     btn.style.border = "5px solid #333333"; 
-  
-    
     btn.style.borderRadius="8px";
     btn.style.backgroundColor = "#6094fb";
     btn.style.fontSize = "30px";

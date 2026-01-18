@@ -62,7 +62,7 @@ for (let n = 1; n <= 49; n++) {
             casilla.style.color = '#ff1919'; // marcado
             casilla.style.fontWeight = 'bold';
         } else {
-            // ya estaba → desmarcar
+            
             seleccionados.splice(indice, 1);
             casilla.style.color = "#000000"; // vuelve a negro
         }
